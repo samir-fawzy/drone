@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+data/raw_images/
+data/logs/
+
+models/*.pt
+models/*.pth
+!models/yolov8n.pt
